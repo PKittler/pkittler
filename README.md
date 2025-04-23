@@ -1,6 +1,9 @@
 # Hi, I'm Philipp! 
 
-I am a hybrid of software developer, marketer and biophysicist. On GitHub I want to share my experiments and small tools with the world. Most of them were useful in my bachelor thesis on conformers from protein ensembles.
+I am a hybrid of software developer, marketer and biophysicist. On GitHub I want to share my projects. Most of them were useful in my bachelor thesis on conformers from protein ensembles.
+
+- TOP 3 most used programming languages: Python, Java, C++
+
 <!--
 **PKittler/pkittler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
